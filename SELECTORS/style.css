@@ -1,0 +1,40 @@
+body{
+   background-color: aliceblue;
+}
+
+.item1{
+    display: block;
+    border: solid;
+    background-color: white;
+    width: 75%;
+    min-width: 500px;
+    width: 1px;
+    margin: 20px;
+   
+}
+.item2{display: block;
+   border:solid ;top:solid;bottom: solid;
+   background-color: white;
+   width: 75%;
+   min-width: 500px;
+   width: 1px;
+   margin: 20px;
+border-style: dotted ;color: red;
+border-right: solid;
+border-bottom: solid;
+
+ 
+}
+.item3{
+    border:solid ;top:solid;bottom: solid;
+   background-color: white;
+   width: 75%;
+   min-width: 500px;
+   width: 1px;
+   margin: 20px;
+border-style: lighter ;color: #333;
+border-right: solid;
+border-bottom: solid;
+
+}
+    
